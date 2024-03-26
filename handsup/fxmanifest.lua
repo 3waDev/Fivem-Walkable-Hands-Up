@@ -1,6 +1,6 @@
 fx_version 'bodacious'
 game 'gta5'
-author 'Ewaツ#5334'
+author 'Ewa'
 version '1.0'
 description 'handsup'
 
