@@ -1,7 +1,5 @@
-With this script you can put your hands up with x
+ewa-handsup is a walkable handsup script for fivem.
 
-This script is for fivem
+This is a standalone script.
 
-This is a remake of walkable-Hands-Up from KadDarem with an updated fx-manifest
-
-Original script: https://github.com/KadDarem/Walkable-Hands-Up
+Discord: https://discord.gg/kWZ86aGH5V
